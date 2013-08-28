@@ -1,4 +1,4 @@
-contact converter app: 2c-app
+contact converter app: 2c
 =======
 
 Author:         Phillip Krause
