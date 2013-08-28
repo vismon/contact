@@ -21,11 +21,8 @@ Special interests:
   1. Detect encoding of a file
   2. encode it to utf8, if the file's format isn't utf8
   3. convert the file to output format and send it back to user
-- be the most meintainable as possible, which means
-  1. provide column-mapping tables as text-file (xml-files)
-  2. provide configuration as xml-files
-  2. clear and commented source-code
-  3. make use of common python modules and distribute very spezials modules within this projekt
+- provide column-mapping tables as text-file (xml-files)
+- provide configuration as python-files
 
 
 
