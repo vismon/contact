@@ -1,4 +1,4 @@
-cool contact converter or cc converter app
+contact converter app: 2c-app
 =======
 
 Author:         Phillip Krause
